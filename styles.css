@@ -1,0 +1,52 @@
+body {
+    background: lightpink;
+    color: ghostwhite;
+    font-size: 22px;
+    font-family: "Comic Sans MS"
+}
+
+h1{
+    font-size: 200%
+    font-weight: bold;
+    color: white;
+}
+
+h2 {
+    font-size: 150%
+    font-style: italic;
+}
+
+nav li {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+    background: white;
+}
+
+a {
+    color: violet;
+    text-decoration: none;
+}
+
+a:hover {
+    color: purple;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.special {
+    font-style: italic;
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin-right: auto;
+    margin-left: 37.5%;
+    width: 50%;
+
+}
